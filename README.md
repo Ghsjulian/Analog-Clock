@@ -8,7 +8,7 @@
 
 ## Screenshots Demo : 
 <center>
-<img src="images/s1.jpg">
-<img src="images/s2.jpg">
+<img src="images/s1.png">
+<img src="images/s2.png">
 
 </center>
