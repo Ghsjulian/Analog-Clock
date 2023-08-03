@@ -3,7 +3,7 @@
 #### Analog Clock 
 
 
-## Video Demo : https://www.facebook.com/reel/3572938359699262/?app=fbl
+## Video Demo : https://web.facebook.com/reel/3572938359699262
 
 ## Demo Link : https://ghsjulian.github.io/Analog-Clock/
 
